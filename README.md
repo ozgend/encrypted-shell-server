@@ -3,9 +3,9 @@
 A node backend for [encrypted-shell-client](https://github.com/ozgend/encrypted-shell-client), a remote cli wrapper with demo key pairs. 
 
 ## Running
-`git clone`
-`npm install`
-`nodemon app.js`
+    git clone
+    npm install
+    nodemon app.js
 
 ## Todo
 
