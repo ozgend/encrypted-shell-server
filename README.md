@@ -1,4 +1,4 @@
-# EncryptedShellClient
+# Encrypted Shell Server
 
 A node backend for [encrypted-shell-client](https://github.com/ozgend/encrypted-shell-client), a remote cli wrapper with demo key pairs. 
 
